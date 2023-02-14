@@ -1,1 +1,11 @@
-/* your code */
+ table{
+	 background-color:grey;
+	 
+ }
+thead{
+	background-color:darkcyan
+}
+th {
+    padding:10px;
+	border:5px;	
+}
